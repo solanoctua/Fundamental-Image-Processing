@@ -1,2 +1,2 @@
 # Fundamental-Image-Processing
-[embed]the1_report.pdf[/embed]
+[embed]https://github.com/solanoctua/Fundamental-Image-Processing/blob/main/the1_report.pdf[/embed]
