@@ -1,2 +1,2 @@
 # Fundamental-Image-Processing
-Implementation of Fundamental Image Processing Techniques
+[embed]the1_report.pdf[/embed]
