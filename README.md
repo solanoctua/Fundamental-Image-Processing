@@ -10,6 +10,7 @@ Take Home Exam 1-
 2.) Spatial Domain Image Filtering
 
 -Convolution
+
 -Edge Detection
 
 -Noise Reduction
