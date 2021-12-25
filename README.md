@@ -1,5 +1,5 @@
 # Fundamental-Image-Processing
-This repository contains the assignments of the image processing course I took and the answers given by me to these assignments. I am not an expert in this field, I am just a person working in this field, please take this into consideration. According to the feedback given to me, there are no critical mistakes in my answers to the assignments, so I dare to share. I wish everyone success in their work.
+This repository contains the assignments of the image processing course I took and the answers given by me to these assignments. Please take this into consideration that I am not an expert in this field, I am just a person studying in this field. According to the feedback given to me, there are no critical mistakes in my answers to the assignments, so I dare to share. I wish everyone success in their work.
 
 When I was working on these assignments there were only few tutorial or explanatory resources to study. So I tried to be as explanatory as possible. I hope we were able to repay the debt of knowledge successfully.
 
