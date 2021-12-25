@@ -6,21 +6,33 @@ When I was working on these assignments there were only few tutorial or explanat
 Here the given Take Home exams by the course CENG466-Fundamentals Of Image Processing that I take in Middle East Technical University.
 Take Home Exam 1-
 1.) Histogram Processing
+
 2.) Spatial Domain Image Filtering
+
 -Convolution
+
 -Edge Detection
+
 -Noise Reduction
+
 https://github.com/solanoctua/Fundamental-Image-Processing/blob/main/THE1/the1_report.pdf 
 
 Take Home Exam 2-
+
 1.) Frequency Domain Image Filtering
+
 -Edge Detection
+
 -Noise Reduction
+
 2.) JPEG Image compression
+
 https://github.com/solanoctua/Fundamental-Image-Processing/blob/main/THE2/the2_report.pdf 
 
 Take Home Exam 3-
+
 https://github.com/solanoctua/Fundamental-Image-Processing/blob/main/THE3/the3_report.pdf 
 
 Take Home Exam 4-
+
 https://github.com/solanoctua/Fundamental-Image-Processing/blob/main/THE4/the4_report.pdf 
