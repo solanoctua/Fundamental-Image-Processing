@@ -3,7 +3,7 @@ This repository contains the assignments of the image processing course I took a
 
 When I was working on these assignments there were only few tutorial or explanatory resources to study. So I tried to be as explanatory as possible. I hope we were able to repay the debt of knowledge successfully.
 
-Here the given Take Home exams by the course CENG466-Fundamentals Of Image Processing that I take in Middle East Technical University.
+Here the given take home exams by the course CENG466-Fundamentals Of Image Processing that I take in Middle East Technical University.
 
 Take Home Exam 1
 
