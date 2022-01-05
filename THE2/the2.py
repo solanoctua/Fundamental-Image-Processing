@@ -2,7 +2,7 @@ import cv2, os, math, cmath
 import numpy as np
 from pathlib import Path
 __author__ = "Can Karagedik"
-__student_id__ = "2288397"
+__mail__ = "loyalvita@gmail.com"
 
 np.set_printoptions(suppress=True)  #If True, always print floating point numbers using fixed point notation. If False, then scientific notation is used.
 def create_output_path(output_path):
