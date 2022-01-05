@@ -3,7 +3,7 @@ import numpy as np
 from matplotlib import pyplot as plt
 
 __author__ = "Can Karagedik"
-__student_id__ = "2288397"
+__mail__ = "loyalvita@gmail.com"
 
 
 def CumulativeHistogram(histogram):
