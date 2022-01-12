@@ -28,6 +28,8 @@ Take Home Exam 2-
 -Noise Reduction
 
 2.) JPEG Image compression
+![](https://github.com/solanoctua/Fundamental-Image-Processing/blob/main/THE2/compression_outputs/reconstructed%200.10.png =250x250)
+
 
 https://github.com/solanoctua/Fundamental-Image-Processing/blob/main/THE2/the2_report.pdf 
 
