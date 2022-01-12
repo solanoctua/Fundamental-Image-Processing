@@ -29,9 +29,13 @@ Take Home Exam 2-
 
 2.) JPEG Image compression
 
+<p float="left">
+<img src="https://github.com/solanoctua/Fundamental-Image-Processing/blob/main/THE2/THE2outputs/Part1/1/GaussianHighpass_Frequency.png" width="250" height="250">
+<img src="https://github.com/solanoctua/Fundamental-Image-Processing/blob/main/THE2/THE2outputs/Part1/1/sobelfilteredfrequency.png" width="250" height="250">
+<img src="https://github.com/solanoctua/Fundamental-Image-Processing/blob/main/THE2/THE2outputs/Part1/1/before%20hysteresis.png" width="250" height="250">
+<img src="https://github.com/solanoctua/Fundamental-Image-Processing/blob/main/THE2/THE2outputs/Part1/1/edges.png" width="250" height="250">
 <img src="https://github.com/solanoctua/Fundamental-Image-Processing/blob/main/THE2/compression_outputs/reconstructed%200.10.png" width="250" height="250">
-
-
+</p>
 
 https://github.com/solanoctua/Fundamental-Image-Processing/blob/main/THE2/the2_report.pdf 
 
