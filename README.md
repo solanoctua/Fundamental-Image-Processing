@@ -36,6 +36,12 @@ Take Home Exam 2-
 https://github.com/solanoctua/Fundamental-Image-Processing/blob/main/THE2/the2_report.pdf 
 
 Take Home Exam 3-
+
+1.) Counting Objects Using Only Mathematical Morphology
+
+2.) Mean Shift and N-Cut Segmentations to Separate Water, Land and Sky In The
+Given Images
+
 <img src="https://github.com/solanoctua/Fundamental-Image-Processing/blob/main/THE3/part1_outputs/A1_Threshold50_opened_result.png" width="250" height="250">
 <img src="https://github.com/solanoctua/Fundamental-Image-Processing/blob/main/THE3/part1_outputs/A2_Threshold100_opened_result.png" width="250" height="250">
 <img src="https://github.com/solanoctua/Fundamental-Image-Processing/blob/main/THE3/part1_outputs/A3_Threshold160_closed_result.png" width="250" height="250">
