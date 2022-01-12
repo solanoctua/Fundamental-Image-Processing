@@ -7,6 +7,8 @@ Here the given take home exams by the course CENG466-Fundamentals Of Image Proce
 
 Take Home Exam 1
 
+https://github.com/solanoctua/Fundamental-Image-Processing/blob/main/THE1/the1_report.pdf 
+
 1.) Histogram Processing
 
 2.) Spatial Domain Image Filtering
@@ -17,9 +19,17 @@ Take Home Exam 1
 
 -Noise Reduction
 
-https://github.com/solanoctua/Fundamental-Image-Processing/blob/main/THE1/the1_report.pdf 
+<p float="left">
+<img src="https://github.com/solanoctua/Fundamental-Image-Processing/blob/main/THE1/THE1-images/1.png" width="250" height="250">
+<img src="https://github.com/solanoctua/Fundamental-Image-Processing/blob/main/THE1/THE1outputs/Part1/1/ex1/original_histogram.png" width="250" height="250">
+<img src="https://github.com/solanoctua/Fundamental-Image-Processing/blob/main/THE1/THE1outputs/Part1/1/ex1/gausssian_histogram.png" width="250" height="250">
+<img src="https://github.com/solanoctua/Fundamental-Image-Processing/blob/main/THE1/THE1outputs/Part1/1/ex1/matched_image_histogram.png" width="250" height="250">
+<img src="https://github.com/solanoctua/Fundamental-Image-Processing/blob/main/THE1/THE1outputs/Part1/1/ex1/matched_image.png" width="250" height="250">
+</p>
 
 Take Home Exam 2-
+
+https://github.com/solanoctua/Fundamental-Image-Processing/blob/main/THE2/the2_report.pdf 
 
 1.) Frequency Domain Image Filtering
 
@@ -37,9 +47,11 @@ Take Home Exam 2-
 <img src="https://github.com/solanoctua/Fundamental-Image-Processing/blob/main/THE2/compression_outputs/reconstructed%200.10.png" width="250" height="250">
 </p>
 
-https://github.com/solanoctua/Fundamental-Image-Processing/blob/main/THE2/the2_report.pdf 
+
 
 Take Home Exam 3-
+
+https://github.com/solanoctua/Fundamental-Image-Processing/blob/main/THE3/the3_report.pdf 
 
 1.) Counting Objects Using Only Mathematical Morphology
 
@@ -52,7 +64,7 @@ Given Images
 <img src="https://github.com/solanoctua/Fundamental-Image-Processing/blob/main/THE3/part1_outputs/A4_Threshold50_opened_result.png" width="250" height="250">
 <img src="https://github.com/solanoctua/Fundamental-Image-Processing/blob/main/THE3/part1_outputs/A5_Threshold80_opened_result.png" width="250" height="250">
 </p>
-https://github.com/solanoctua/Fundamental-Image-Processing/blob/main/THE3/the3_report.pdf 
+
 
 Take Home Exam 4-
 
