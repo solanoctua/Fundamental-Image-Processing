@@ -58,14 +58,14 @@ https://github.com/solanoctua/Fundamental-Image-Processing/blob/main/THE3/the3_r
 2.) Mean Shift and N-Cut Segmentations to Separate Water, Land and Sky In The
 Given Images
 <p float="left">
-<img src="https://github.com/solanoctua/Fundamental-Image-Processing/blob/main/THE3/part1_outputs/A1_Threshold50_opened_result.png" width="250" height="250">
-<img src="https://github.com/solanoctua/Fundamental-Image-Processing/blob/main/THE3/part1_outputs/A2_Threshold100_opened_result.png" width="250" height="250">
+
 <img src="https://github.com/solanoctua/Fundamental-Image-Processing/blob/main/THE3/part1_outputs/A3_Threshold160_closed_result.png" width="250" height="250">
 <img src="https://github.com/solanoctua/Fundamental-Image-Processing/blob/main/THE3/part1_outputs/A4_Threshold50_opened_result.png" width="250" height="250">
-<img src="https://github.com/solanoctua/Fundamental-Image-Processing/blob/main/THE3/part1_outputs/A5_Threshold80_opened_result.png" width="250" height="250">
+<img src="https://github.com/solanoctua/Fundamental-Image-Processing/blob/main/THE3/part2_outputs/the3_B2output_meanshift.png" width="250" height="250">
+<img src="https://github.com/solanoctua/Fundamental-Image-Processing/blob/main/THE3/part2_outputs/the3_B2output_ncut.png" width="250" height="250">
+<img src="https://github.com/solanoctua/Fundamental-Image-Processing/blob/main/THE3/part2_outputs/the3_B3output_meanshift.png" width="250" height="250">
+<img src="https://github.com/solanoctua/Fundamental-Image-Processing/blob/main/THE3/part2_outputs/the3_B3output_ncut.png" width="250" height="250">
 </p>
 
 
-Take Home Exam 4-
 
-https://github.com/solanoctua/Fundamental-Image-Processing/blob/main/THE4/the4_report.pdf 
