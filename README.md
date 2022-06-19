@@ -15,12 +15,12 @@ K-means K-Optimized Image Segmentation
 <img src="https://github.com/solanoctua/Fundamental-Image-Processing/blob/main/Image Segmentation K-means/Inputs and Outputs/6_clustersK=13.png" width="250" height="250">
 </p>
 <p float="left">
-<img src="https://github.com/solanoctua/Fundamental-Image-Processing/blob/main/Image Segmentation K-means/Inputs and Outputs/1_result_K=12.png" width="250" height="250">
-<img src="https://github.com/solanoctua/Fundamental-Image-Processing/blob/main/Image Segmentation K-means/Inputs and Outputs/2_result_K=6.png" width="250" height="250">
-<img src="https://github.com/solanoctua/Fundamental-Image-Processing/blob/main/Image Segmentation K-means/Inputs and Outputs/3_result_K=8.png" width="250" height="250">
-<img src="https://github.com/solanoctua/Fundamental-Image-Processing/blob/main/Image Segmentation K-means/Inputs and Outputs/4_result_K=6.png" width="250" height="250">
-<img src="https://github.com/solanoctua/Fundamental-Image-Processing/blob/main/Image Segmentation K-means/Inputs and Outputs/5_result_K=7.png" width="250" height="250">
-<img src="https://github.com/solanoctua/Fundamental-Image-Processing/blob/main/Image Segmentation K-means/Inputs and Outputs/6_result_K=13.png" width="250" height="250">
+<img src="https://github.com/solanoctua/Fundamental-Image-Processing/blob/main/Image Segmentation K-means/Inputs and Outputs/1_result_K=12.jpg" width="250" height="250">
+<img src="https://github.com/solanoctua/Fundamental-Image-Processing/blob/main/Image Segmentation K-means/Inputs and Outputs/2_result_K=6.jpg" width="250" height="250">
+<img src="https://github.com/solanoctua/Fundamental-Image-Processing/blob/main/Image Segmentation K-means/Inputs and Outputs/3_result_K=8.jpg" width="250" height="250">
+<img src="https://github.com/solanoctua/Fundamental-Image-Processing/blob/main/Image Segmentation K-means/Inputs and Outputs/4_result_K=6.jpg" width="250" height="250">
+<img src="https://github.com/solanoctua/Fundamental-Image-Processing/blob/main/Image Segmentation K-means/Inputs and Outputs/5_result_K=7.jpg" width="250" height="250">
+<img src="https://github.com/solanoctua/Fundamental-Image-Processing/blob/main/Image Segmentation K-means/Inputs and Outputs/6_result_K=13.jpg" width="250" height="250">
 </p>
 Take Home Exam 1
 
