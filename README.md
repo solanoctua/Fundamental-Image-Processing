@@ -5,6 +5,15 @@ When I was working on these assignments there were only few tutorial or explanat
 
 Here the given take home exams by the course CENG466-Fundamentals Of Image Processing that I take in Middle East Technical University.
 
+K-means K-Optimized Image Segmentation 
+<p float="left">
+<img src="https://github.com/solanoctua/Fundamental-Image-Processing/blob/main/Image Segmentation K-means/Inputs and Outputs/1_clustersK=12.png" width="250" height="250">
+<img src="https://github.com/solanoctua/Fundamental-Image-Processing/blob/main/Image Segmentation K-means/Inputs and Outputs/2_clustersK=6.png" width="250" height="250">
+<img src="https://github.com/solanoctua/Fundamental-Image-Processing/blob/main/Image Segmentation K-means/Inputs and Outputs/3_clustersK=8.png" width="250" height="250">
+<img src="https://github.com/solanoctua/Fundamental-Image-Processing/blob/main/Image Segmentation K-means/Inputs and Outputs/4_clustersK=6.png" width="250" height="250">
+<img src="https://github.com/solanoctua/Fundamental-Image-Processing/blob/main/Image Segmentation K-means/Inputs and Outputs/5_clustersK=7.png" width="250" height="250">
+<img src="https://github.com/solanoctua/Fundamental-Image-Processing/blob/main/Image Segmentation K-means/Inputs and Outputs/6_clustersK=13.png" width="250" height="250">
+</p>
 Take Home Exam 1
 
 https://github.com/solanoctua/Fundamental-Image-Processing/blob/main/THE1/the1_report.pdf 
