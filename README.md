@@ -4,7 +4,7 @@ This repository contains the assignments of the image processing course I took a
 When I was working on these assignments there were only few tutorial or explanatory resources to study. So I tried to be as explanatory as possible. I hope we were able to repay the debt of knowledge successfully.
 
 Here the given take home exams by the course CENG466-Fundamentals Of Image Processing that I take in Middle East Technical University.
-
+<!---
 K-means K-Optimized Image Segmentation 
 <p float="left">
 <img src="https://github.com/solanoctua/Fundamental-Image-Processing/blob/main/Image Segmentation K-means/Inputs and Outputs/1_clustersK=12.png" width="250" height="250">
@@ -21,6 +21,8 @@ K-means K-Optimized Image Segmentation
 <img src="https://github.com/solanoctua/Fundamental-Image-Processing/blob/main/Image Segmentation K-means/Inputs and Outputs/4_result_K=6.jpg" width="250" height="250">
 <img src="https://github.com/solanoctua/Fundamental-Image-Processing/blob/main/Image Segmentation K-means/Inputs and Outputs/5_result_K=7.jpg" width="250" height="250">
 <img src="https://github.com/solanoctua/Fundamental-Image-Processing/blob/main/Image Segmentation K-means/Inputs and Outputs/6_result_K=13.jpg" width="250" height="250">
+
+--->
 </p>
 Take Home Exam 1
 
